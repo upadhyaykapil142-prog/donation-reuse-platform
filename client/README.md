@@ -25,7 +25,8 @@ A full-stack web application that allows users to donate clothes and household i
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
+
 
 ---
 
