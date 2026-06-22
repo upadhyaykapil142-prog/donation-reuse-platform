@@ -1,4 +1,4 @@
-# 🚀 Donation & Reuse Platform
+# 🚀 Community Donation & Resource Exchange Platform
 
 A full-stack web application that allows users to donate clothes and household items easily and helps connect donors with people in need.
 
