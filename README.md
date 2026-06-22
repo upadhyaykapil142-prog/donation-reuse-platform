@@ -37,16 +37,6 @@ A full-stack web application that allows users to donate clothes and household i
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-(Add screenshot here)
-
-### Donation Form
-(Add screenshot here)
-
-### Donations List
-(Add screenshot here)
 
 ---
 
